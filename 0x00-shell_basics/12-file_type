@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{ print FILENAME }' /tmp/iamafile
+file -s /tmp/iamafile
