@@ -1,2 +1,2 @@
 #!/bin/bash
-chwon -h vincent:staff /tmp/h/_hello
+chwon -h vincent:staff _hello
